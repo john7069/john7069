@@ -21,5 +21,3 @@ I am an undergraduate student specializing in Digital Forensics and Cyber Securi
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=john7069&show_icons=true&theme=radical)
