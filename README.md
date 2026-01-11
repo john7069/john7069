@@ -1,4 +1,4 @@
-### Hi there 👋 I'm William John
+### Hi there 👋 I'm William John Bosco
 
 **Cyber Forensics Student | Python Developer | Security Enthusiast**
 
